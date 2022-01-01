@@ -1,5 +1,5 @@
 ### Hi there 👋
-![My GitHub stats](https://github-readme-stats-thdaele.vercel.app/api?username=thdaele&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![My GitHub stats](https://github-readme-stats-thdaele.vercel.app/api?username=thdaele&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats-thdaele.vercel.app/api/top-langs/?username=thdaele&show_icons=true&theme=dark&layout=compact&langs_count=10)
 
